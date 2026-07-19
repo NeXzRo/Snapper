@@ -1,11 +1,11 @@
 [
   {
     "Author": "Eqbot, ViviAshe, astrodoobs, BeSlightly",
-    "Name": "Snappy",
-    "InternalName": "Snappy",
-    "AssemblyVersion": "0.5.1.1",
+    "Name": "Snapper",
+    "InternalName": "Snapper",
+    "AssemblyVersion": "0.5.2.6",
     "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
-    "RepoUrl": "https://github.com/BeSlightly/Snappy",
+    "RepoUrl": "https://github.com/NeXzRo/Snappy",
     "ApplicableVersion": "any",
     "Tags": [
       "utility",

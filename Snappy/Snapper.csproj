@@ -2,10 +2,10 @@
 <Project Sdk="Dalamud.NET.Sdk/15.0.0">
   <!-- Plugin manifest -->
   <PropertyGroup>
-    <Name>Snappy</Name>
-    <Version>0.5.2.5</Version>
+    <Name>Snapper</Name>
+    <Version>0.5.2.6</Version>
     <Author>Eqbot, Vivi, astrodoobs, BeSlightly</Author>
-    <RepoUrl>https://github.com/BeSlightly/Snappy</RepoUrl>
+    <RepoUrl>https://github.com/NeXzRo/Snappy</RepoUrl>
     <Punchline>Plugin to save current appearance and applied mods of a character</Punchline>
     <Description>Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.</Description>
     <Tags>snappy, snapper, utility, mare, snapshot</Tags>
