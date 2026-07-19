@@ -5,7 +5,7 @@
     "InternalName": "Snapper",
     "AssemblyVersion": "0.5.2.6",
     "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
-    "RepoUrl": "https://github.com/NeXzRo/Snappy",
+    "RepoUrl": "https://github.com/NeXzRo/Snapper",
     "ApplicableVersion": "any",
     "Tags": [
       "utility",
@@ -23,13 +23,13 @@
     "Punchline": "Plugin to save current appearance and applied mods of a character",
     "AcceptsFeedback": false,
     "IsTestingExclusive": "False",
-    "DownloadLinkInstall": "https://github.com/BeSlightly/Snappy/releases/download/v0.5.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BeSlightly/Snappy/releases/download/v0.5.1.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BeSlightly/Snappy/releases/download/v0.5.2.5/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/BeSlightly/Snappy/refs/heads/master/snappy.png",
+    "DownloadLinkInstall": "https://github.com/NeXzRo/Snapper/archive/refs/tags/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/NeXzRo/Snapper/archive/refs/tags/latest.zip",
+    "DownloadLinkTesting": "https://github.com/NeXzRo/Snapper/archive/refs/tags/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Snapper/refs/heads/master/snapper.png",
     "LastUpdate": 1784049869,
     "Changelog": "",
-    "DownloadCount": 8275,
+    "DownloadCount": 0,
     "TestingAssemblyVersion": "0.5.2.5"
   }
 ]
